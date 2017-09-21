@@ -80,6 +80,7 @@ enum class Stream {
   Crunchyroll,
   Daisuki,
   Hidive,
+  Masteranime,
   Plex,
   Veoh,
   Viz,

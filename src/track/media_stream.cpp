@@ -80,6 +80,15 @@ static const std::vector<StreamData> stream_data{
     std::regex("hidive\\.com/stream/"),
     std::regex("(.+)"),
   },
+  // Masteranime
+  {
+    Stream::Masteranime,
+    taiga::kStream_Masteranime,
+    L"Masterani",
+    L"https://www.masterani.me",
+    std::regex("masterani\\.me/anime/watch/"),
+    std::regex("(.+) - Masterani"),
+  },
   // Plex Web App
   {
     Stream::Plex,

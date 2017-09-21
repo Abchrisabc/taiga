@@ -104,6 +104,7 @@ enum AppSettingName {
   kStream_Crunchyroll,
   kStream_Daisuki,
   kStream_Hidive,
+  kStream_Masteranime,
   kStream_Plex,
   kStream_Veoh,
   kStream_Viz,
